@@ -1,4 +1,4 @@
-#Encryption project
+# Encryption project
 
 An encryption program made in C++ 
 A symmetric 64-bit key is used 
